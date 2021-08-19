@@ -33,3 +33,28 @@ Installation:
   
   
   type "minecraft.py"
+  
+  
+  
+  
+  Controls:
+  
+  
+  
+  
+  
+  W/A/S/D = movement
+  
+  
+  
+  
+  
+  
+  
+  f = toggle flight
+  
+  
+  
+  
+  
+  left/right click = place/destroy block
